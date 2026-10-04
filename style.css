@@ -1,0 +1,29 @@
+* {
+    background: black;
+    font-family: 'Roboto', Times, serif;
+    color: white;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.screen {
+    font-size: 100px;
+}
+
+.buttons {
+    padding: 16px;
+    margin: 16px;
+}
+
+button {
+    border: 2px solid white;
+    border-radius: 8px;
+    padding: 8px;
+    margin: 8px;
+}
